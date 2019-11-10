@@ -1,9 +1,9 @@
 .red-underline {
-  border-bottom: 2px solid #DC0000;
+  border-top: 2px solid #DC0000;
 }
 
 .blue-underline {
-  border-bottom: 2px solid #094AA0;;
+  border-top: 2px solid #094AA0;;
 }
 
 .red-text {
@@ -12,4 +12,12 @@
 
 .blue-text {
   color: #094AA0;;
+}
+
+.section {
+  background-color: #F2F2F2;
+}
+
+.article-card-container {
+  margin-bottom: 30px;
 }

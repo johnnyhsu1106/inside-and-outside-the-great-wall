@@ -1,0 +1,14 @@
+.footer {
+  background-color:  #EDF1F5;
+}
+
+.footer .copy-right {
+  padding: 65px 0;
+  font-family: 'Roboto';
+  font-style: normal;
+  font-weight: normal;
+  font-size: 16px;
+  line-height: 24px;
+  text-align: center;
+  letter-spacing: 0.2px;
+}

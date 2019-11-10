@@ -1,11 +1,3 @@
-.red-underline {
-  border-bottom: 2px solid #DC0000;
-}
-
-.blue-under-line {
-  border-bottom: 2px solid #094AA0;;
-}
-
 .module:after,
 .column:after,
 .sector:after,
@@ -16,6 +8,7 @@
   visibility: hidden;
   clear: both;
 }
+
 
 .sector {
   margin: 0 auto;
