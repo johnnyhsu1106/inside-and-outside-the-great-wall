@@ -1,0 +1,35 @@
+.nav {
+  padding: 24px 0 90px 0;
+}
+
+.nav .topic-nav-item {
+  float: left;
+  width: 80px;
+  padding: 0 15px;
+  border-right: 1px solid #000000;
+  box-sizing: border-box;
+}
+
+.nav .topic-nav-item a {
+  color: #000000;
+  font-family: 'Noto Sans SC', sans-serif;
+  font-style: normal;
+  font-weight: 300;
+  font-size: 18px;
+  line-height: 26px;
+  letter-spacing: -0.4px;
+  text-decoration: none;
+  cursor: pointer;
+}
+
+.nav .topic-nav-item a:visited {
+  color: #000000;
+}
+
+.nav .topic-nav-item:first-child {
+  margin-left: -15px;
+}
+
+.nav .topic-nav-item:last-child {
+  border: none;
+}

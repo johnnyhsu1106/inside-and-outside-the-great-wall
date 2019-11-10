@@ -1,0 +1,35 @@
+.header {
+  width: 100%;
+  background: #282E81;
+  box-shadow: 0px 4px 20px rgba(0, 0, 0, 0.1);
+}
+
+.header .logo {
+  padding: 17px 0;
+  font-family: 'Noto Sans SC', sans-serif;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 26px;
+  line-height: 38px;
+  color: #ffffff;
+}
+
+.header .page-nav-item {
+  float: left;
+  box-sizing: border-box;
+  padding: 23px 30px;
+  font-family: 'Noto Sans SC', sans-serif;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 18px;
+  line-height: 26px;
+  text-align: center;
+  color: #ffffff;
+}
+
+.header .page-nav-item:last-child {
+  padding: 23px 60px;
+  color: #282E81;
+  background: #ffffff;
+
+}
