@@ -25,6 +25,7 @@
   line-height: 26px;
   text-align: center;
   color: #ffffff;
+  cursor: pointer;
 }
 
 .header .page-nav-item:last-child {

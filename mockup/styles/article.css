@@ -72,6 +72,7 @@
 
 .article-headline {
     margin-bottom: 10px;
+    height: 80px;
     font-family: 'Noto Sans SC', sans-serif;
     font-style: normal;
     font-weight: bold;
