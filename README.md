@@ -1,2 +1,2 @@
-# inside-and-outside-the-great-wall
+# inside out the wall
 A news aggregation and comparison website
