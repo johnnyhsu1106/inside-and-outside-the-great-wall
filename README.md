@@ -1,2 +1,2 @@
-# inside out the wall
+# Inside Out The Wall
 A news aggregation and comparison website
